@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.16+commit.07a7930e"
+		"version": "0.8.1+commit.df193b15"
 	},
 	"language": "Solidity",
 	"output": {
@@ -47,7 +47,7 @@
 		"compilationTarget": {
 			"contracts/MoodDiary.sol": "MoodDiary"
 		},
-		"evmVersion": "london",
+		"evmVersion": "istanbul",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

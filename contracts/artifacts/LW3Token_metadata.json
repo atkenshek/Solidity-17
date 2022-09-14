@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.16+commit.07a7930e"
+		"version": "0.8.0+commit.c7dfd78e"
 	},
 	"language": "Solidity",
 	"output": {
@@ -341,7 +341,7 @@
 		"compilationTarget": {
 			"contracts/LW3Token.sol": "LW3Token"
 		},
-		"evmVersion": "london",
+		"evmVersion": "istanbul",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

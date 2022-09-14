@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.16+commit.07a7930e"
+		"version": "0.8.0+commit.c7dfd78e"
 	},
 	"language": "Solidity",
 	"output": {
@@ -336,7 +336,7 @@
 		"compilationTarget": {
 			"contracts/bep-20.sol": "MeiramCoin"
 		},
-		"evmVersion": "london",
+		"evmVersion": "istanbul",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -349,11 +349,11 @@
 	},
 	"sources": {
 		"contracts/bep-20.sol": {
-			"keccak256": "0xd7c0224231ff89151a37711b8d4dd0e5ca34c00717f17cf5b444242fa92aec03",
+			"keccak256": "0x51f3c039fa6dcc13fe79ce7b8bc6430b71bdfacda5672c4bdb3fb9226b737b1e",
 			"license": "Meiram Sopy Temirzhanov 2022-09-06",
 			"urls": [
-				"bzz-raw://4e2cb98536261760c13884c22a388a68cb0a2ed68934144c196a51f26a50f31b",
-				"dweb:/ipfs/QmS4rGDZ86gT5wPWejCTFdChTgnQfa7fFqNEreSfcYtXzr"
+				"bzz-raw://c776e83b115eff9478dff3b8a50c43b8cd3bf5034a432fb77f5ba8bf7d081262",
+				"dweb:/ipfs/QmXiVTD8EXNuNfWj3A7qHrLJFppMuXQyxCnb4mEusnruXA"
 			]
 		},
 		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol": {
